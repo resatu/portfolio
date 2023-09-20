@@ -92,6 +92,7 @@ const triggerFlipOnScroll = (galleryEl, options) => {
 
 // Function to apply scroll-triggered animations to various galleries
 // Apply scroll-triggered animations to each gallery with specific settings
+
 const scroll = () => {
 	// Define the gallery IDs and their options
     const galleries = [
