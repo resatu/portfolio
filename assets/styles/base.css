@@ -13,8 +13,7 @@
   --color-label: #adadad;
   --color-text-alt: #575757;
   --color-caption: #fff;
-  overflow: hidden;
-  height: 100%;
+  height: 100%; 
 }
 
 body {
